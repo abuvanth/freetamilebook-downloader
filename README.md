@@ -5,4 +5,6 @@ usage:
 
 2) cd freetamilebook-downloader
 
-3) python ftebd.py
+3) sudo pip install -U pyOpenSSL
+
+4) python ftebd.py
