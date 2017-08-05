@@ -7,4 +7,6 @@ usage:
 
 3) sudo pip install -U pyOpenSSL
 
-4) python ftebd.py
+4) sudo pip install requests
+
+5) python ftebd.py
