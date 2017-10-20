@@ -10,3 +10,8 @@ usage:
 4) sudo pip install requests
 
 5) python ftebd.py
+
+
+Todo :
+1)GUI interface
+2)Resume capability
